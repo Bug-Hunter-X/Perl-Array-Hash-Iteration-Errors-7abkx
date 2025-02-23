@@ -1,0 +1,1 @@
+This repository contains examples of common errors encountered when iterating through arrays and hashes in Perl.  The `bug.pl` file demonstrates incorrect array access, potentially leading to runtime errors or unexpected behavior. The `bugSolution.pl` file provides corrected versions, emphasizing safe and efficient iteration techniques.
